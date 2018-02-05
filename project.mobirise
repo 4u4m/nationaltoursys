@@ -319,7 +319,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Web-Site, Tour ERP, Mobile 등 여행솔루션을 <br>Nationaltoursys만의 독창적 기술과 여행업경력 20년의 노하우로 최상의 서비스를 제공합니다.&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"index.html#header10-l\" data-toolbar=\"-mbrBtnMove\">SERVICE</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"index.html#form4-m\" data-toolbar=\"-mbrBtnMove\">CONACT</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"index.html#header10-l\" data-toolbar=\"-mbrBtnMove\">SERVICE</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/2.jpg",
@@ -353,7 +353,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "여행업 30년의 노하우와 미래 지향적인 여행솔루션을 만나보세요.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" href=\"index.html#header10-l\" data-toolbar=\"-mbrBtnMove\">Services</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"http://nationaltoursys.com/\" data-toolbar=\"-mbrBtnMove\">Sample Site</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" href=\"index.html#header10-l\" data-toolbar=\"-mbrBtnMove\">Services</a> "
               }
             ]
           }
