@@ -336,7 +336,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "NATIONAL TOURSYS",
+                "title": "NATIONALTOURSYS",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Web-Site, Tour ERP, Mobile 등 여행솔루션 서비스",
@@ -373,7 +373,7 @@
                 "title": "기본에 충실한<br>솔루션",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "여행업 30년의 노하우와 미래 지향적인 여행솔루션을 만나보세요.",
+                "text": "여행업 20년의 노하우와 미래 지향적인 여행솔루션을 만나보세요.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" href=\"index.html#header10-l\" data-toolbar=\"-mbrBtnMove\">Services</a> "
               }
             ]
